@@ -1,2 +1,4 @@
+scanf("Enter Your Message:");
 printf("Hello");
-printf ("hw r u")
+scanf("Enter Your Response:");
+printf ("hw r u");
